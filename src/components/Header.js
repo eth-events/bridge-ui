@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from  'react-router-dom'
-import logo from '../assets/images/logos/logo-top@2x.png'
+import logo from '../assets/images/logos/ewf-logo-100x100.png'
 import menuIcon from '../assets/images/icons/icon-menu.svg'
 import menuOpenIcon from '../assets/images/icons/icon-close.svg'
 import { Wallet } from './Wallet'

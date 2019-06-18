@@ -45,7 +45,8 @@ const networks = {
   42:'Kovan',
   77:'Sokol',
   99: 'POA Network',
-  100: 'Dai Chain'
+  100: 'Dai Chain',
+  246: 'Energy Web Chain'
 }
 
 export const getNetworkName = (id) => networks[id] || 'Unknown'
